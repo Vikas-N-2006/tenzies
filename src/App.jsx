@@ -131,7 +131,7 @@ export default function App() {
           <h1 className="stopwatch-time">{formattedTime}</h1>
         </div>
         <div className="roll-container">
-          <p>Times you rolled Dice: </p>
+          <p>No. of Times you rolled Dice: </p>
           <h1 className="roll-no">{rollCount.current}</h1>
         </div>
       </main>

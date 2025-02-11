@@ -18,6 +18,39 @@ Tenzies is a fun and interactive dice game built using React. The goal is to rol
 To run this project locally, follow these steps:
 
 ### 📂 Clone the Repository
+
 ```sh
 git clone https://github.com/Vikas-N-2006/tenzies.git
 cd tenzies
+
+### 📦 Install Dependencies
+
+```sh
+npm install
+
+### ▶️ Start the Development Server
+
+```sh
+npm start
+
+The app will be available at ```sh http://localhost:3000/.
+
+🎮 How to Play
+- 1.🎲 Click "Roll" to generate random numbers on each die.
+- 2.🛑 Click on a die to freeze it if you want to keep its value.
+- 3.🔄 Continue rolling until all dice show the same number.
+- 4.🏆 Try to win in the fewest rolls possible!
+
+### 🚀 Deployment
+This project can be deployed easily using Vercel:
+- 📤 Push your code to GitHub.
+- 🔗 Connect the repository to Vercel.
+- 🚀 Deploy with default React settings.
+
+## 🤝 Contributions
+Contributions are welcome! Feel free to submit a pull request or report issues.
+
+## 📜 License
+This project is open-source and available under the MIT License.
+
+🎉 Enjoy playing Tenzies! 🎲
