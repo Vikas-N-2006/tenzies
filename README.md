@@ -37,10 +37,10 @@ npm run dev
 The app will be available at http://localhost:3000/.
 
 ### 🎮 How to Play
-- 1. 🎲 Click "Roll" to generate random numbers on each die.
-- 2. 🛑 Click on a die to freeze it if you want to keep its value.
-- 3. 🔄 Continue rolling until all dice show the same number.
-- 4. 🏆 Try to win in the fewest rolls possible!
+- 🎲 Click "Roll" to generate random numbers on each die.
+- 🛑 Click on a die to freeze it if you want to keep its value.
+- 🔄 Continue rolling until all dice show the same number.
+- 🏆 Try to win in the fewest rolls possible!
 
 ## 🚀 Deployment
 This project can be deployed easily using Vercel:
